@@ -1,0 +1,23 @@
+# Bay Area Michelin-Starred Restaurant Mapping
+Purpose: Create an interactive map of Bay Area Michelin-starred restaurants while demonstrating skills in web-scraping and mapping packages in Python as well as visualization in Tableau. 
+Method: Locate business information about Michelin-starred restaurants from Yelp, retrieve GPS coordinates of addresses using Geopy, then build an interactive map in Tableau. 
+
+## Contributors
+Sarah Macdonald (sarah@sarahpmac.com)
+
+## Dependencies
+- Python Packages
+    - pandas 0.20.1
+    - requests 2.20.1
+	-beautiful soup 
+	-geopy 
+
+##Data Sources: 
+"San Francisco Bay Area’s Michelin Stars Announced for 2019." SF Eater. <https://sf.eater.com/2018/11/29/18118127/michelin-restaurants-san-francisco-stars-2019>
+
+## Release History
+ Version 1.0 - 1/15/2019 - Inital commit
+
+## Future Work 
+-Use Bokeh to visualize restaurants in addition to Tableau
+-Scrape restaurant chef information from restaurants' websites for visualizations and predictive models 
