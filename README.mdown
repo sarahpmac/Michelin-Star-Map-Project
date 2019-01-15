@@ -12,7 +12,7 @@ Sarah Macdonald (sarah@sarahpmac.com)
 	-beautiful soup 
 	-geopy 
 
-##Data Sources: 
+## Data Sources: 
 "San Francisco Bay Area’s Michelin Stars Announced for 2019." SF Eater. <https://sf.eater.com/2018/11/29/18118127/michelin-restaurants-san-francisco-stars-2019>
 
 ## Release History
